@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/fsd-grp-26/static/css/main.a617e044.chunk.css",
-    "main.js": "/fsd-grp-26/static/js/main.b7601500.chunk.js",
-    "main.js.map": "/fsd-grp-26/static/js/main.b7601500.chunk.js.map",
+    "main.js": "/fsd-grp-26/static/js/main.1b1c8b27.chunk.js",
+    "main.js.map": "/fsd-grp-26/static/js/main.1b1c8b27.chunk.js.map",
     "runtime-main.js": "/fsd-grp-26/static/js/runtime-main.99df0ba8.js",
     "runtime-main.js.map": "/fsd-grp-26/static/js/runtime-main.99df0ba8.js.map",
     "static/js/2.0562786e.chunk.js": "/fsd-grp-26/static/js/2.0562786e.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.99df0ba8.js",
     "static/js/2.0562786e.chunk.js",
     "static/css/main.a617e044.chunk.css",
-    "static/js/main.b7601500.chunk.js"
+    "static/js/main.1b1c8b27.chunk.js"
   ]
 }
